@@ -1,8 +1,6 @@
 
 
 
-# Full-Stack React Projects
-This is the code repository for [Full-Stack React Projects](https://www.packtpub.com/web-development/full-stack-react-projects?utm_source=github&utm_medium=repository&utm_campaign=9781788835534), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 This book explores the potential of developing full-stack JavaScript web applications by combining the power of React with industry tested server-side technologies, such as Node, Express, and MongoDB. The JavaScript landscape has been growing rapidly for some time now. With an abundance of options and resources available on this subject matter, it is easy to get lost when you need to choose from these frequently changing parts, learn about them, and make them work together to build your own web applications. In an attempt to address this pain point, the book adopts a practical approach to help you set up and build a diverse range of working applications using this popular JavaScript stack.
 ## Instructions and Navigation
